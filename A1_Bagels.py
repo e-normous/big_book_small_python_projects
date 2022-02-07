@@ -102,9 +102,3 @@ def getClues(guess, secretNum):
 #if the program is run instead of imported, start it:
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
